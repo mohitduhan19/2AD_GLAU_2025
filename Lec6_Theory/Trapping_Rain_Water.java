@@ -1,4 +1,4 @@
-package AD.Lec7_Theory;
+package AD.Lec6_Theory;
 
 public class Trapping_Rain_Water {
     public int trap(int[] height) {
